@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: darkslategray;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+.secondary-title, .ingredients-title, .instructions-title {
+
+    background-color: darkcyan;
+    border-radius: 20px;
+    padding: 20px;
+    
+
+}
+
+.main-title {
+    background-color: aqua;
+    border-radius: 20px;
+    padding:10px;
+}
+
