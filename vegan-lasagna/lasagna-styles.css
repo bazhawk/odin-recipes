@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:auto;
+    text-align: center;
+}
+
+.main-lasagna-image {
+    height: 500px;
+    width: 500px;
+
+}
+
+.container {
+    background-color: aliceblue;
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    padding-left: 10px;
+    padding-right: 10px;    
+}
+
+.action-titles {
+    background-color: white;
+}
+
+
+
